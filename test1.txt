@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aaaaaaaaaaa
 bbbbbb
+=======
+balabala
+>>>>>>> addcb02cf890d84efef0de874429be1e9d8fb983
